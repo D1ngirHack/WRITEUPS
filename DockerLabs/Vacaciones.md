@@ -55,7 +55,9 @@ nmap -p22,80 -sVC --min-rate 5000 -n -Pn 172.17.0.2
 <h3><center> Análisis del servidor web HTTP (puerto 80)</center></h3>
 
 Al introducir la IP como la dirección URL, la web nos muestra lo siguiente:
-![[Pasted image 20250101202548.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250101202548.png" width="500">
+</p>
 
 
 No vemos nada, pero si inspeccionamos el código.
@@ -104,7 +106,9 @@ Teniendo a dos posibles usuarios creamos un diccionario. Creamos un fichero llam
 nano users.txt
 ```
 
-![[Pasted image 20250101204816.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250101204816.png" width="500">
+</p>
 <p align="center">
     <img src="../img/Pasted_image_20250101203358.png" width="500">
 </p>

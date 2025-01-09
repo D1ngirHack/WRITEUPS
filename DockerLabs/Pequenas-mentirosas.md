@@ -107,7 +107,9 @@ No nos encuentra nada. Por lo que utilizo otra herramienta para realizar `FUZZIN
 gobuster dir -u http://172.17.0.2 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt -x php,txt,asp,aspx
 ```
 
-![[Pasted image 20250102153446.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250102153446.png" width="500">
+</p>
 
 Tampoco nos encuentra mucho.
 

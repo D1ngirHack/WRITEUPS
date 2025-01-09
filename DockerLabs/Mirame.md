@@ -132,7 +132,9 @@ Nos muestra un directorio llamado `/page.php`, que es la misma página que nos m
 ### SQL Injection
 
 Abriremos BurpSuit para capturar la peticion del login y crear un archivo `request.txt` para utilizar en `sqlmap`.
-![[Pasted image 20250102204751.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250102204751.png" width="500">
+</p>
 
 <p align="center">
     <img src="../img/Pasted_image_20250102204853.png" width="500">

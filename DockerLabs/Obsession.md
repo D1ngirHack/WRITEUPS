@@ -103,7 +103,9 @@ Son tareas pendientes y en una de ellas, nos indica que tiene algunas configurac
 
 <h3><center> Análisis del servidor web HTTP (puerto 80)</center></h3>
 Al introducir la IP como la dirección URL, la web nos muestra lo siguiente:
-![[Pasted image 20250101213556.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250101213556.png" width="500">
+</p>
 
 Vemos que es una web personal de `Russoski`  que se anuncia como entrenador personal. Si vemos el código fuente podemos observar un comentario
 ```

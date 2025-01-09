@@ -56,7 +56,9 @@ nmap -p22,80 -sVC --min-rate 5000 -n -Pn 172.17.0.2
 <h3><center> Análisis del servidor web HTTP (puerto 80)</center></h3>
 
 Al introducir la IP como la dirección URL, la web nos muestra lo siguiente:
-![[Pasted image 20250101191632.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250101191632.png" width="500">
+</p>
 
 Nos muestra una imagen de un huevo kinder. Podemos tomas las palabras como posibles usuarios o contraseña. Pero antes voy a realizar un reconocimiento de posibles directorios o archivos realizando `fuzzing web`.
 

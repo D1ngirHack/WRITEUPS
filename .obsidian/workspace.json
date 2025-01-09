@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "5d47ab522532bb58",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4468a944ca86405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b3a098f8b56c6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07874fb4e04f6971",
+    "type": "split",
+    "children": [
+      {
+        "id": "69ed7ae4b41f1183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45c54180a368dc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7fa2ee87715195ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9df2499058759dec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4742061f8d21027",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b46ece807ff938e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e046a55306ff703",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DockerLabs/Backend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Backend"
+            }
+          },
+          {
+            "id": "1e249eca7d8fba4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DockerLabs/Backend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Backend"
+            }
+          },
+          {
+            "id": "eeef3e6c2a989c31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1f0c6ba96d6d8199",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DockerLabs/Backend.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Backend"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a6b3a098f8b56c6d",
+  "lastOpenFiles": [
+    "DockerLabs/WhereIsMyWebShell.md",
+    "DockerLabs/Backend.md"
+  ]
+}
